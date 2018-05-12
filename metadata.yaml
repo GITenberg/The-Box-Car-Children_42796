@@ -1,0 +1,41 @@
+_repo: The-Box-Car-Children_42796
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gregory, Dorothy Lake
+    gutenberg_agent_id: '41864'
+    url: http://www.gutenberg.org/2009/agents/41864
+covers:
+- cover_type: archival
+  image_path: 42796-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Warner, Gertrude Chandler
+    alias: Warner, Gertrude
+    birthdate: 1890
+    deathdate: 1979
+    gutenberg_agent_id: '41863'
+    url: http://www.gutenberg.org/2009/agents/41863
+description: Henry, Jessie, Violet and Benny Alden are brothers and sisters - and
+  they're orphans. The only way they can stay together is to make it on their own.
+  One night, during a storm, the children find an old red boxcar that keeps them warm
+  and safe. They decide to make it their home.
+gutenberg_issued: '2013-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Boxcar children (Fictitious characters) -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+title: The Box-Car Children
+url: http://www.gutenberg.org/ebooks/42796
